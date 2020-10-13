@@ -23,10 +23,22 @@ Live api-:https://ancient-peak-77982.herokuapp.com
 methods
 get method
 Categories-:api/categories
-cATEGRORY WITH ID-:API//category/:categoryId
+
+
+category WITH ID-:API//category/:categoryId
+
+
 Products:API/products
+
+
 Product with id-:api/products/:productId
+
+
+
 Prouduct photo-:api/product/photo/:productId
+
+
+
 Order of user-:api//order/list/:userId
 
 
@@ -40,7 +52,7 @@ and then make orders add to cart
 
 
 
-NOte-:FRpont end is to be uploaded
+NOte-:Front  end is to be uploaded
 
 
 
