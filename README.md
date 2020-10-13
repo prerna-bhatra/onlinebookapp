@@ -1,5 +1,5 @@
 Please visit these links
-
+https://onlinebookstore.vercel.app/dashboard
 
 
 
@@ -7,7 +7,7 @@ backend code repo-:https://github.com/prerna-bhatra/bookbackend
 
 
 
-Font end code repo-:https://github.com/prerna-bhatra/bookfrontend
+Front end code repo-:https://github.com/prerna-bhatra/bookfrontend
 
 
 
