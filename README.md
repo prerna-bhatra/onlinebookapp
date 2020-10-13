@@ -1,7 +1,17 @@
 Please visit these links
+
+
+
+
 backend code repo-:https://github.com/prerna-bhatra/bookbackend
-Font end code repo
-LIve api-:https://ancient-peak-77982.herokuapp.com
+
+
+
+Font end code repo-:https://github.com/prerna-bhatra/bookfrontend
+
+
+
+Live api-:https://ancient-peak-77982.herokuapp.com
 methods
 get method
 Categories-:api/categories
@@ -18,6 +28,11 @@ Post methods:
 First of all signup using postman-:
 Then signin
 and then make orders add to cart 
+
+
+
+
+NOte-:FRpont end is to be uploaded
 
 
 
