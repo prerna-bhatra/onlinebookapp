@@ -12,6 +12,14 @@ Font end code repo-:https://github.com/prerna-bhatra/bookfrontend
 
 
 Live api-:https://ancient-peak-77982.herokuapp.com
+
+
+
+
+
+
+
+
 methods
 get method
 Categories-:api/categories
